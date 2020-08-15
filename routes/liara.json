@@ -1,0 +1,10 @@
+{
+    "platform":"node",
+    "app":"sharifi",
+    "port":3000,
+    "node":{
+        "vresion":"12"
+    }
+
+
+}
